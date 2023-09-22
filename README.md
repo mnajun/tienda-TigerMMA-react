@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="link-de-la-app">
-    <img src="https://res.cloudinary.com/dbrmekhog/image/upload/v1695409471/a9aee1vwl7ii0xi12m3r.png" alt="Logo" width="100" height="100">
+    <img src="https://res.cloudinary.com/dbrmekhog/image/upload/v1695409471/a9aee1vwl7ii0xi12m3r.png" alt="Logo" width="400" height="400">
   </a>
 
   <h1 align="center">Tienda Tiger MMA</h1>
@@ -33,7 +33,7 @@ son: Bermudas, Remeras y Calzas. Lo podemos ver entrando en productos y seleccio
 
 Esta es una lista de las tecnologias que utilize para realizar el proyecto:
 
-* [![React][React.js]][React-url]
+* ![React][React.js]][React-url]
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -89,10 +89,12 @@ _Los pasos a seguir para realizar la instalacion correcta del proyecto._
 ## Navegacion
 * Si tienes alguna duda o quieres ver un avance, puedes hacer click y ver una demostracion de la app.
 
+<a href="link-de-la-app">
+    <img src="https://res.cloudinary.com/dbrmekhog/image/upload/f_auto,q_auto/ptejpzo8pgeite5gtpka
+" alt="captura de pantalla" width="400" height="400">
+  </a>
 
-
-[![APP] https://res.cloudinary.com/dbrmekhog/image/upload/f_auto,q_auto/ptejpzo8pgeite5gtpka
-
+ 
 
 
 <p align="right">(<a href="#readme-top">volver al inicio</a>)</p>
