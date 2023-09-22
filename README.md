@@ -90,7 +90,8 @@ _Los pasos a seguir para realizar la instalacion correcta del proyecto._
 * Si tienes alguna duda o quieres ver un avance, puedes hacer click y ver una demostracion de la app.
 
 
-    <img src="https://res.cloudinary.com/dbrmekhog/image/upload/v1695413013/ptejpzo8pgeite5gtpka.jpg
+![Captura de pantalla](https://res.cloudinary.com/dbrmekhog/image/upload/v1695413013/ptejpzo8pgeite5gtpka.jpg)
+
 
 
  
