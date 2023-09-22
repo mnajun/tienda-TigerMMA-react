@@ -33,7 +33,7 @@ son: Bermudas, Remeras y Calzas. Lo podemos ver entrando en productos y seleccio
 
 Esta es una lista de las tecnologias que utilize para realizar el proyecto:
 
-* ![React][React.js]][React-url]
+* [![React][React.js]][React-url]
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -127,6 +127,10 @@ App: [https://tienda-tiger-mma-react.vercel.app]
 
 [github]: https://github.com
 [Cloudinary]: https://cloudinary.com
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
 
 
 
