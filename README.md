@@ -89,10 +89,9 @@ _Los pasos a seguir para realizar la instalacion correcta del proyecto._
 ## Navegacion
 * Si tienes alguna duda o quieres ver un avance, puedes hacer click y ver una demostracion de la app.
 
-<a href="link-de-la-app">
-    <img src="https://res.cloudinary.com/dbrmekhog/image/upload/f_auto,q_auto/ptejpzo8pgeite5gtpka
-" alt="captura de pantalla" width="400" height="400">
-  </a>
+
+    <img src="https://res.cloudinary.com/dbrmekhog/image/upload/v1695413013/ptejpzo8pgeite5gtpka.jpg
+
 
  
 
