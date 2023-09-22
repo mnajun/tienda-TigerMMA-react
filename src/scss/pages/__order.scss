@@ -1,0 +1,25 @@
+.order{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    &__id{
+        font-family: $secondary;
+        span{
+            color:#1776b6;
+        }
+    }
+    &__congrats{
+        font-size: 1.7em;
+        display: flex;
+        align-items: center;
+    }
+    &__return{
+        display: block;
+        color: #2d8be4;
+        font-size: 1.2em;
+    }
+}
