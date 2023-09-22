@@ -6,7 +6,7 @@ const About = () => {
       <Header showAs="Shadow" />
       <div className="about">
         <img
-          src="https://res.cloudinary.com/dbrmekhog/image/upload/v1695419181/p4mlydb0tnzjuw9x2qc3.jpg"
+          src="https://res.cloudinary.com/dbrmekhog/image/upload/v1695419689/kvyljdxpl6hzepig4pzb.png"
           alt="banner"
           className="about__banner"
         />
