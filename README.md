@@ -91,7 +91,7 @@ _Los pasos a seguir para realizar la instalacion correcta del proyecto._
 
 
 
-[![Video navegando por la APP](https://res.cloudinary.com/dbrmekhog/image/upload/v1695413013/ptejpzo8pgeite5gtpka.jpg)](https://www.veed.io/embed/c3fab5a3-fb7a-49b1-8039-0bb7ee0c1e49)
+
 
 
 
