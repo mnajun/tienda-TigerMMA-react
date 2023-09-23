@@ -31,7 +31,7 @@ son: Bermudas, Remeras y Calzas. Lo podemos ver entrando en productos y seleccio
 
 ### Realizado con
 
-Esta es una lista de las tecnologias que utilize para realizar el proyecto:
+Esta es una lista de las tecnologias que utilice para realizar el proyecto:
 
 * [![React][React.js]][React-url]
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -92,6 +92,10 @@ _Los pasos a seguir para realizar la instalacion correcta del proyecto._
 
 
 
+
+
+
+https://github.com/mnajun/tienda-TigerMMA-react/assets/122756093/114bcf43-ca17-4cd9-96e5-9cbf5ffcfb58
 
 
 
