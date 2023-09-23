@@ -92,6 +92,8 @@ _Los pasos a seguir para realizar la instalacion correcta del proyecto._
 
 ![Captura de pantalla](https://res.cloudinary.com/dbrmekhog/image/upload/v1695413013/ptejpzo8pgeite5gtpka.jpg)
 
+![<iframe src="https://www.veed.io/embed/c3fab5a3-fb7a-49b1-8039-0bb7ee0c1e49" width="744" height="504" frameborder="0" title="screen-capture" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 
  
