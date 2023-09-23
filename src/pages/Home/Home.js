@@ -10,7 +10,7 @@ const Home = () => {
         <h1 className="home__title">Tiger MMA</h1>
 
         <Link to="/shop" className="home__cta">
-          CONSIGUE LO MEJOR PARA GUERREROS
+          Consigue lo mejor para guerreros
         </Link>
 
         <img src={lobo} alt="remera de lobo" className="home__image" />
